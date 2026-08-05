@@ -1,3 +1,5 @@
+[![ZipLoot.app](https://img.shields.io/badge/Powered%20By-ZipLoot.app-818cf8?style=for-the-badge&logo=rocket)](https://ziploot.app)
+
 [![JS.ORG](https://img.shields.io/badge/js.org-+-FFE70B.svg?style=flat-square)](http://js.org)
 [![PRs](https://img.shields.io/github/issues-pr-closed-raw/js-org/js.org.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/js-org/js.org/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/js-org/js.org?color=FFE70B&style=flat-square)](https://github.com/js-org/js.org/graphs/contributors)
@@ -70,3 +72,19 @@ As above with adding a subdomain to a GitHub Pages site, the final step is to ma
 ---
 
 Thanks to **[Cloudflare](https://www.cloudflare.com)** for their awesome DNS service that makes this service possible. While JS.ORG is using their free plan - to a shameless extent - they helped us more than once with some flexible solutions and extended quotas. Many thanks!
+
+---
+
+## 🌐 Discover More Free Tools on ZipLoot
+
+Check out our full suite of automated web applications and developer tools at **[https://ziploot.app](https://ziploot.app)**:
+
+- 🎥 **[Ad-Free Video Downloader](https://ziploot.app/addfree)** — Fast social video downloads with zero popups.
+- 📄 **[Unlimited PDF Toolset](https://ziploot.app/pdf-toolset)** — Merge, split, compress, and edit PDFs in browser.
+- 📹 **[YouTube Downloader](https://ziploot.app/youtube-downloader)** — Download high quality YouTube videos and audio for free.
+- 🎨 **[Watermark Remover](https://ziploot.app/watermark-remover)** — Remove image watermarks automatically.
+- 🌐 **[Image Translator](https://ziploot.app/image-translator)** — Translate text inside images online instantly.
+
+---
+
+*Maintained with ❤️ by the **[ZipLoot Team](https://ziploot.app)**.*
